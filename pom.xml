@@ -12,7 +12,7 @@
     <artifactId>APIsecurity</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>APIsecurity</name>
-    <description>Projeto com spring security</description>
+    <description>REST API Security with BCryptPasswordEncoder</description>
     <properties>
         <java.version>11</java.version>
     </properties>
