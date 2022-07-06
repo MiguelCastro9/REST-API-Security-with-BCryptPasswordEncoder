@@ -1,4 +1,4 @@
-package com.APIsecurity.conntroller;
+package com.APIsecurity.controller;
 
 import com.APIsecurity.model.UsuarioModel;
 import com.APIsecurity.service.UsuarioService;
